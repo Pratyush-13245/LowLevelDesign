@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 #include "calculator.h"
 
+
 using namespace std;
 
 calculator::calculator(double a, double b) : num1(a), num2(b) {}
