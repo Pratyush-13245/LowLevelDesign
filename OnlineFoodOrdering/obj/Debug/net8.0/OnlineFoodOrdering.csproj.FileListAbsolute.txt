@@ -1,0 +1,14 @@
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.GeneratedMSBuildEditorConfig.editorconfig
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.AssemblyInfoInputs.cache
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.AssemblyInfo.cs
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.csproj.CoreCompileInputs.cache
+D:\lld\OOPS\OnlineFoodOrdering\bin\Debug\net8.0\OnlineFoodOrdering.exe
+D:\lld\OOPS\OnlineFoodOrdering\bin\Debug\net8.0\OnlineFoodOrdering.deps.json
+D:\lld\OOPS\OnlineFoodOrdering\bin\Debug\net8.0\OnlineFoodOrdering.runtimeconfig.json
+D:\lld\OOPS\OnlineFoodOrdering\bin\Debug\net8.0\OnlineFoodOrdering.dll
+D:\lld\OOPS\OnlineFoodOrdering\bin\Debug\net8.0\OnlineFoodOrdering.pdb
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.dll
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\refint\OnlineFoodOrdering.dll
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.pdb
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\OnlineFoodOrdering.genruntimeconfig.cache
+D:\lld\OOPS\OnlineFoodOrdering\obj\Debug\net8.0\ref\OnlineFoodOrdering.dll

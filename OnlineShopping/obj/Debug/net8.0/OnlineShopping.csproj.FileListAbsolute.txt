@@ -1,0 +1,14 @@
+D:\lld\OOPS\OnlineShopping\bin\Debug\net8.0\OnlineShopping.exe
+D:\lld\OOPS\OnlineShopping\bin\Debug\net8.0\OnlineShopping.deps.json
+D:\lld\OOPS\OnlineShopping\bin\Debug\net8.0\OnlineShopping.runtimeconfig.json
+D:\lld\OOPS\OnlineShopping\bin\Debug\net8.0\OnlineShopping.dll
+D:\lld\OOPS\OnlineShopping\bin\Debug\net8.0\OnlineShopping.pdb
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.AssemblyInfoInputs.cache
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.AssemblyInfo.cs
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.csproj.CoreCompileInputs.cache
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.dll
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\refint\OnlineShopping.dll
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.pdb
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\OnlineShopping.genruntimeconfig.cache
+D:\lld\OOPS\OnlineShopping\obj\Debug\net8.0\ref\OnlineShopping.dll

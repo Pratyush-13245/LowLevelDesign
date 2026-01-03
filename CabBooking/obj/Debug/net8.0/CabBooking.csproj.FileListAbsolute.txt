@@ -1,0 +1,14 @@
+D:\lld\OOPS\CabBooking\bin\Debug\net8.0\CabBooking.exe
+D:\lld\OOPS\CabBooking\bin\Debug\net8.0\CabBooking.deps.json
+D:\lld\OOPS\CabBooking\bin\Debug\net8.0\CabBooking.runtimeconfig.json
+D:\lld\OOPS\CabBooking\bin\Debug\net8.0\CabBooking.dll
+D:\lld\OOPS\CabBooking\bin\Debug\net8.0\CabBooking.pdb
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.AssemblyInfoInputs.cache
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.AssemblyInfo.cs
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.csproj.CoreCompileInputs.cache
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.dll
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\refint\CabBooking.dll
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.pdb
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\CabBooking.genruntimeconfig.cache
+D:\lld\OOPS\CabBooking\obj\Debug\net8.0\ref\CabBooking.dll

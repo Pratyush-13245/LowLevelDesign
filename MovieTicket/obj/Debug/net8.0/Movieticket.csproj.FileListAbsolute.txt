@@ -1,0 +1,14 @@
+D:\lld\OOPS\MovieTicket\bin\Debug\net8.0\Movieticket.exe
+D:\lld\OOPS\MovieTicket\bin\Debug\net8.0\Movieticket.deps.json
+D:\lld\OOPS\MovieTicket\bin\Debug\net8.0\Movieticket.runtimeconfig.json
+D:\lld\OOPS\MovieTicket\bin\Debug\net8.0\Movieticket.dll
+D:\lld\OOPS\MovieTicket\bin\Debug\net8.0\Movieticket.pdb
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.AssemblyInfoInputs.cache
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.AssemblyInfo.cs
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.csproj.CoreCompileInputs.cache
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.dll
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\refint\Movieticket.dll
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.pdb
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\Movieticket.genruntimeconfig.cache
+D:\lld\OOPS\MovieTicket\obj\Debug\net8.0\ref\Movieticket.dll

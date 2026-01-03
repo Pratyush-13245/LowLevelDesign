@@ -1,0 +1,14 @@
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+D:\lld\OOPS\BOOKLIBRARY\bin\Debug\net8.0\BookLibrary.exe
+D:\lld\OOPS\BOOKLIBRARY\bin\Debug\net8.0\BookLibrary.deps.json
+D:\lld\OOPS\BOOKLIBRARY\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+D:\lld\OOPS\BOOKLIBRARY\bin\Debug\net8.0\BookLibrary.dll
+D:\lld\OOPS\BOOKLIBRARY\bin\Debug\net8.0\BookLibrary.pdb
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.dll
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\refint\BookLibrary.dll
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.pdb
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+D:\lld\OOPS\BOOKLIBRARY\obj\Debug\net8.0\ref\BookLibrary.dll
